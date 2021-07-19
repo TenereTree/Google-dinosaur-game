@@ -5,6 +5,6 @@ Greetings.
 
 You can change the icons, monsters, character according to your wishes.
 
-I will add character packs.
+I added the original assets. You can edit as you wish.
 
 See you
